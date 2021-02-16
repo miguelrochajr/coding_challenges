@@ -1,5 +1,5 @@
 {
-  "category_list": [
+  "category_list":[
      {
         "category_id":1,
         "category_verbose":"Distribuidora"
@@ -17,12 +17,14 @@
         "category_verbose":"Produtora"
      }
   ],
-  "stores": [
+  "stores":[
      {
+        "name":"Total bebidas",
         "category_id":1,
         "category_verbose":"Distribuidora"
      },
      {
+        "name":"Mr. Madruga 24h",
         "category_id":2,
         "category_verbose":"Conveniência"
      },
@@ -37,6 +39,7 @@
         "category_verbose":"Distribuidora"
      },
      {
+        "name":"DrinkApp (Loja teste)",
         "category_id":0,
         "category_verbose":"Loja"
      },
@@ -46,6 +49,7 @@
         "category_verbose":"Distribuidora"
      },
      {
+        "name":"Cervejaria HopMundi",
         "category_id":5,
         "category_verbose":"Produtora"
      },
