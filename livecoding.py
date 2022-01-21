@@ -15,7 +15,7 @@ response_example = {
     'stores': stores
 }
 
-# store_stype is a list of all the unique store types that exist in stores
+# category_list is a list of all the unique store types that exist in stores
 
 # You task is to implement the function build_response(stores) and return a
 # python dictionary like the response_example defined above. The stores object
