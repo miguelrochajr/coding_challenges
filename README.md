@@ -21,4 +21,4 @@ Your task is to use the data in the products.py file, handle the data in the mos
 }
 ```
 
-The categories array should contain the list of unique categories present in the products_list array found in the products.py file. The products array should contain the list all of the products.
+The categories array should contain the list of unique categories present in the products array found in the products.py file. The products array should contain the list all of the products.
