@@ -16,9 +16,13 @@ Your task is to use the data in the products.py file, handle the data in the mos
 
 ```json
 {
-    "categories": [],
-    "products": []
+    "categories": [category_1, category_2, ...],
+    "products": {
+        "category_1": [product_1, product_2, ...],
+        "category_2": [product_1, product_2, ...],
+        ...
+    }
 }
 ```
 
-The categories array should contain the list of unique categories present in the products array found in the products.py file. The products array should contain the list all of the products.
+The categories array should contain the list of unique categories present in the products array found in the products.py file. The frontend will use this info in the section 1 above. The products array should contain the list all of the products, grouped by category. The frontend will use this info in the section 2 above.
