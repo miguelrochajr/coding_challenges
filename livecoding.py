@@ -1,30 +1,37 @@
-from stores import stores
+from products import products
 
 # You must build the following response, as a Python dictionary
 response_example = {
-    'category_list': [
+    'categories': [
         {
-            'category_id': 1,
-            'category_verbose': 'Conveniência',
+            'id': 1,
+            'title': 'Books',
         },
         {
-            'category_id': 1,
-            'category_verbose': 'Conveniência',
+            'id': 2,
+            'verbose': 'Electronics',
         },
     ],
-    'stores': stores
+    "products": {
+        "Electronics": [
+            {
+                "id": 3,
+                "name": "Bluetooth Speaker"
+            }
+        ],
+    },
 }
 
-# category_list is a list of all the unique categories that exist in the list stores
+# categories is a list of all the unique categories that exist in the list products
 
 # You task is to implement the function build_response(stores) and return a
 # python dictionary like the response_example defined above.
 
-def build_response(stores):
+def build_response(products):
     # step 1: which categories exist in the list stores?
     # step 2: build the response.
     # tip: python dictionary is you friend
-    print(stores)
+    print(products)
 
-resposne = build_response(stores)
+resposne = build_response(products)
 print(resposne)
