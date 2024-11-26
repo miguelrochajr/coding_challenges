@@ -1,176 +1,176 @@
 {
-    "categories": [
-        {
-            "id": 1,
-            "title": "Electronics"
-        },
-        {
-            "id": 2,
-            "title": "Books"
-        },
-        {
-            "id": 3,
-            "title": "Clothing"
-        },
-        {
-            "id": 4,
-            "title": "Health & Beauty"
-        },
-        {
-            "id": 5,
-            "title": "Furniture"
-        }
-    ],
-    "products_by_category": {
-        "Electronics": [
-            {
-                "id": 1,
-                "name": "Smartphone"
-            },
-            {
-                "id": 2,
-                "name": "Laptop"
-            },
-            {
-                "id": 3,
-                "name": "Bluetooth Speaker"
-            },
-            {
-                "id": 4,
-                "name": "E-reader"
-            },
-            {
-                "id": 5,
-                "name": "Wireless Earbuds"
-            },
-            {
-                "id": 26,
-                "name": "Tablet"
-            },
-            {
-                "id": 27,
-                "name": "Wireless Keyboard"
-            },
-            {
-                "id": 28,
-                "name": "Power Bank"
-            }
-        ],
-        "Books": [
-            {
-                "id": 6,
-                "name": "Novel: The Great Gatsby"
-            },
-            {
-                "id": 7,
-                "name": "Cookbook: Quick & Easy Recipes"
-            },
-            {
-                "id": 8,
-                "name": "Science Textbook"
-            },
-            {
-                "id": 9,
-                "name": "Graphic Novel"
-            },
-            {
-                "id": 10,
-                "name": "Travel Guide: Europe"
-            },
-            {
-                "id": 29,
-                "name": "Historical Fiction Novel"
-            },
-            {
-                "id": 30,
-                "name": "Children's Storybook"
-            }
-        ],
-        "Clothing": [
-            {
-                "id": 11,
-                "name": "Men's T-Shirt"
-            },
-            {
-                "id": 12,
-                "name": "Women's Jeans"
-            },
-            {
-                "id": 13,
-                "name": "Winter Jacket"
-            },
-            {
-                "id": 14,
-                "name": "Kids' Hoodie"
-            },
-            {
-                "id": 15,
-                "name": "Sports Shorts"
-            },
-            {
-                "id": 31,
-                "name": "Men's Suit"
-            },
-            {
-                "id": 32,
-                "name": "Evening Dress"
-            }
-        ],
-        "Health & Beauty": [
-            {
-                "id": 16,
-                "name": "Face Moisturizer"
-            },
-            {
-                "id": 17,
-                "name": "Shampoo"
-            },
-            {
-                "id": 18,
-                "name": "Lip Balm"
-            },
-            {
-                "id": 19,
-                "name": "Hand Sanitizer"
-            },
-            {
-                "id": 20,
-                "name": "Makeup Brush Set"
-            },
-            {
-                "id": 33,
-                "name": "Hair Dryer"
-            },
-            {
-                "id": 34,
-                "name": "Nail Polish Set"
-            }
-        ],
-        "Furniture": [
-            {
-                "id": 21,
-                "name": "Wooden Dining Table"
-            },
-            {
-                "id": 22,
-                "name": "Office Chair"
-            },
-            {
-                "id": 23,
-                "name": "Bookshelf"
-            },
-            {
-                "id": 24,
-                "name": "Sofa"
-            },
-            {
-                "id": 25,
-                "name": "Bed Frame"
-            },
-            {
-                "id": 35,
-                "name": "Coffee Table"
-            }
-        ]
-    }
- }
+   "categories": [
+       {
+           "id": 1,
+           "title": "Electronics"
+       },
+       {
+           "id": 2,
+           "title": "Books"
+       },
+       {
+           "id": 3,
+           "title": "Clothing"
+       },
+       {
+           "id": 4,
+           "title": "Health & Beauty"
+       },
+       {
+           "id": 5,
+           "title": "Furniture"
+       }
+   ],
+   "products_by_category": {
+       "Electronics": [
+           {
+               "id": 1,
+               "name": "Smartphone"
+           },
+           {
+               "id": 2,
+               "name": "Laptop"
+           },
+           {
+               "id": 3,
+               "name": "Bluetooth Speaker"
+           },
+           {
+               "id": 4,
+               "name": "E-reader"
+           },
+           {
+               "id": 5,
+               "name": "Wireless Earbuds"
+           },
+           {
+               "id": 26,
+               "name": "Tablet"
+           },
+           {
+               "id": 27,
+               "name": "Wireless Keyboard"
+           },
+           {
+               "id": 28,
+               "name": "Power Bank"
+           }
+       ],
+       "Books": [
+           {
+               "id": 6,
+               "name": "Novel: The Great Gatsby"
+           },
+           {
+               "id": 7,
+               "name": "Cookbook: Quick & Easy Recipes"
+           },
+           {
+               "id": 8,
+               "name": "Science Textbook"
+           },
+           {
+               "id": 9,
+               "name": "Graphic Novel"
+           },
+           {
+               "id": 10,
+               "name": "Travel Guide: Europe"
+           },
+           {
+               "id": 29,
+               "name": "Historical Fiction Novel"
+           },
+           {
+               "id": 30,
+               "name": "Children's Storybook"
+           }
+       ],
+       "Clothing": [
+           {
+               "id": 11,
+               "name": "Men's T-Shirt"
+           },
+           {
+               "id": 12,
+               "name": "Women's Jeans"
+           },
+           {
+               "id": 13,
+               "name": "Winter Jacket"
+           },
+           {
+               "id": 14,
+               "name": "Kids' Hoodie"
+           },
+           {
+               "id": 15,
+               "name": "Sports Shorts"
+           },
+           {
+               "id": 31,
+               "name": "Men's Suit"
+           },
+           {
+               "id": 32,
+               "name": "Evening Dress"
+           }
+       ],
+       "Health & Beauty": [
+           {
+               "id": 16,
+               "name": "Face Moisturizer"
+           },
+           {
+               "id": 17,
+               "name": "Shampoo"
+           },
+           {
+               "id": 18,
+               "name": "Lip Balm"
+           },
+           {
+               "id": 19,
+               "name": "Hand Sanitizer"
+           },
+           {
+               "id": 20,
+               "name": "Makeup Brush Set"
+           },
+           {
+               "id": 33,
+               "name": "Hair Dryer"
+           },
+           {
+               "id": 34,
+               "name": "Nail Polish Set"
+           }
+       ],
+       "Furniture": [
+           {
+               "id": 21,
+               "name": "Wooden Dining Table"
+           },
+           {
+               "id": 22,
+               "name": "Office Chair"
+           },
+           {
+               "id": 23,
+               "name": "Bookshelf"
+           },
+           {
+               "id": 24,
+               "name": "Sofa"
+           },
+           {
+               "id": 25,
+               "name": "Bed Frame"
+           },
+           {
+               "id": 35,
+               "name": "Coffee Table"
+           }
+       ]
+   }
+}
