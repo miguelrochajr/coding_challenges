@@ -1,3 +1,5 @@
+![alt text](https://github.com/miguelrochajr/coding_challenges/blob/main/images/backend-live-coding.png "b2bit live coding")
+
 # 💻 b2bit live coding challenge
 
 Hello! Welcome to the b2bit coding challenge. This will test you in some simple Python concepts that we frequently use in our day-to-day work.
