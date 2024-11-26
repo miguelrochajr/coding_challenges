@@ -13,7 +13,7 @@ Let's assume we have a list of products that we want to sell. Each product has a
 ![alt text](https://github.com/miguelrochajr/coding_challenges/blob/main/images/page_breakdown.png "Store catalog page")
 
 
-Your task is to use the data in the products.py file, handle the data in the most effiient way possible, and return the data in the JSON format using the following structure.
+Your task is to use the data in the products.py file, handle the data in the most efficient way possible, and return the data in the JSON format using the following structure.
 
 
 ```json

@@ -2,23 +2,18 @@ from products import products
 
 # You must build the following response, as a Python dictionary
 response_example = {
-    'categories': [
+    "categories": [
         {
-            'id': 1,
-            'title': 'Books',
+            "id": 1,
+            "title": "Books",
         },
         {
-            'id': 2,
-            'verbose': 'Electronics',
+            "id": 2,
+            "verbose": "Electronics",
         },
     ],
     "products": {
-        "Electronics": [
-            {
-                "id": 3,
-                "name": "Bluetooth Speaker"
-            }
-        ],
+        "Electronics": [{"id": 3, "name": "Bluetooth Speaker"}],
     },
 }
 
@@ -27,11 +22,12 @@ response_example = {
 # You task is to implement the function build_response(stores) and return a
 # python dictionary like the response_example defined above.
 
-def build_response(products):
+
+def build_response(prods: dict):
     # step 1: which categories exist in the list stores?
     # step 2: build the response.
     # tip: python dictionary is you friend
-    print(products)
 
-resposne = build_response(products)
-print(resposne)
+
+response = build_response(products)
+print(response)
